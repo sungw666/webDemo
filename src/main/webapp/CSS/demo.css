@@ -1,0 +1,27 @@
+/* 初始样式，可以根据需要进行自定义 */
+.textDiffraction {
+    width: 800px;
+    height: 100px;
+    background-color: #3498db;
+    text-align: center;
+    line-height: 100px;
+}.textDiffraction2 {
+    width: 800px;
+    height: 80px;
+    background-color: #3498db;
+    text-align: center;
+    line-height: 100px;
+}
+.text2
+{
+    display: inline-block;
+    width: 200px;
+    height: 400px;
+    background: yellow;
+}.text3
+{
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+    background: rgb(128, 128, 128);
+}
